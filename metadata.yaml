@@ -1,0 +1,35 @@
+_repo: Plutarch-Lives-of-the-noble-Grecians-and-Romans_674
+contributor:
+  creator:
+    editor:
+      agent_name: Clough, Arthur Hugh
+      alias: Clough, A. H. (Arthur Hugh)
+      birthdate: 1819
+      deathdate: 1861
+      gutenberg_agent_id: '343'
+      url: http://www.gutenberg.org/2009/agents/343
+      wikipedia: http://en.wikipedia.org/wiki/Arthur_Hugh_Clough
+creator:
+  author:
+    agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DE'
+- !lcsh 'Rome -- Biography -- Early works to 1800'
+- !lcsh 'Greece -- Biography -- Early works to 1800'
+title: 'Plutarch: Lives of the noble Grecians and Romans'
+url: http://www.gutenberg.org/ebooks/674
