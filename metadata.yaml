@@ -1,5 +1,5 @@
 _repo: Plutarch-Lives-of-the-noble-Grecians-and-Romans_674
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -10,6 +10,9 @@ contributor:
       gutenberg_agent_id: '343'
       url: http://www.gutenberg.org/2009/agents/343
       wikipedia: http://en.wikipedia.org/wiki/Arthur_Hugh_Clough
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Plutarch
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/342
     wikipedia: http://en.wikipedia.org/wiki/Plutarch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/674#Plutarch-Lives-of-the-noble-Grecians-and-Romans
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '1996-10-01'
 gutenberg_type: Text
