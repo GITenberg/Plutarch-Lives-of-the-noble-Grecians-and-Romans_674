@@ -1,5 +1,5 @@
 _repo: Plutarch-Lives-of-the-noble-Grecians-and-Romans_674
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -37,5 +37,6 @@ subjects:
 - !lcc 'DE'
 - !lcsh 'Rome -- Biography -- Early works to 1800'
 - !lcsh 'Greece -- Biography -- Early works to 1800'
+- GITenberg
 title: 'Plutarch: Lives of the noble Grecians and Romans'
 url: http://www.gutenberg.org/ebooks/674
